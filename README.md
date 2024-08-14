@@ -1,9 +1,15 @@
-<h1 align="center">Hi,I'm Pau</h1>
+<h1 align="center">Hi,I'm Pau Kuntong</h1>
 <h3 align="center">A passionate Software Engineer!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pkuntong&label=Profile%20views&color=0e75b6&style=flat" alt="pkuntong" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pkuntong" alt="pkuntong" /></a> </p>
+
+- 🔭 I’m currently working on [Spots](https://github.com/pkuntong/se_project_spots)
+
+- 🌱 I’m currently learning **HTML, CSS, JavaScript, React**
+
+- 👨‍💻 All of my projects are available at [https://github.com/pkuntong](https://github.com/pkuntong)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
