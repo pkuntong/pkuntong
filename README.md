@@ -1,7 +1,7 @@
 <h1 align="center">Hi,I'm Pau</h1>
 <h3 align="center">A passionate Software Engineer!</h3>
 
-- 🔭 I’m currently working on [Spots](https://github.com/pkuntong/se_project_spots)
+- 🔭 I’m currently working on [React](https://github.com/pkuntong/se_project_react)
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, React**
 
