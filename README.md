@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pau Kuntong</h1>
 <h3 align="center">A passionate Software Engineer!</h3>
 
-- 🌱 I’m currently learning **Javascript and the DOM**
-
 - 👨‍💻 All of my projects are available at [https://github.com/pkuntong](https://github.com/pkuntong)
 
 - 💬 Ask me about **HTML5, CSS3, Javascript, DOM, React**
