@@ -9,6 +9,7 @@
 - 🧠 [Mindtoss](https://github.com/pkuntong/Mindtoss) - Capture thoughts instantly and send them straight to your inbox. Built with React Native & Expo for iOS
 - 👺 [Nectar](https://github.com/pkuntong/nectar) - AI-powered side-hustle generator built with React + Vite + Convex.
 - 🥳 [Sales Journal Pro](https://github.com/pkuntong/sales-journal-pro) - Tracking Sales
+- 🤖 [Smart Invoice Extract](https://github.com/pkuntong/SmartInvoiceExtract) - it instantly extracts data from invoices and receipts, organizing them into a beautiful, searchable history.
 
 
 
