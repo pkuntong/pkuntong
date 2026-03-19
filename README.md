@@ -19,4 +19,4 @@ A few projects I'm building and supporting.
 - 🥋 [Roll IQ](https://www.rolliq.app/) - A BJJ roll logger and insights app for tracking rolls, outcomes, and personalized game plans.
 - 🌿 [whatissizang](https://www.whatissizang.org/) - An indigenous community from Myanmar's Chin State, rooted in history, culture, and faith.
 - 📱 [Sizang Innkuan](https://apps.apple.com/us/app/sizang-innkuan/id6756180193) - Sizang voices united.
-- 📷 [Dim San - Modeling Portfolio](https://www.huaisuandim.com/) - A professional modeling portfolio website showcasing the work of aspiring model Huai Suan Dim, a 20-year-old college student passionate about fashion and photography.
+- 📷 [Dim San - Modeling Portfolio](https://www.huaisuandim.com/) - A portfolio site for aspiring model Huai Suan Dim.
