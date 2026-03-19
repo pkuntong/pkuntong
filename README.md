@@ -11,6 +11,6 @@
 - 📈 [Sales Journal Pro](https://github.com/pkuntong/sales-journal-pro) - Tracking Sales
 - 🧾 [Smart Invoice Extract](https://github.com/pkuntong/SmartInvoiceExtract) - it instantly extracts data from invoices and receipts, organizing them into a beautiful, searchable history.
 - 🏠 [Highlander Homes](https://github.com/pkuntong/highlanderhomes) - A comprehensive property management platform for landlords and property managers.
-
+- ⛪ [SBMC](https://www.sizangchurch.org/) - A Christ-centered community dedicated to worship, fellowship, and serving the Sizang Burmese community in faith and love.
 
 
