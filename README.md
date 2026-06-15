@@ -7,7 +7,7 @@ A few projects I'm building and supporting.
 ---
 
 - 🥗 [Nutri AI](https://apps.apple.com/us/app/nutriai-calorie-counter/id6767646397) - NutriAI is an AI-assisted food diary
-- - 🥋 [Roll IQ](https://www.rolliq.app/) - A BJJ roll logger and insights app for tracking rolls, outcomes, and personalized game plans.
+- 🥋 [Roll IQ](https://www.rolliq.app/) - A BJJ roll logger and insights app for tracking rolls, outcomes, and personalized game plans.
 - 💕 [RizzGPT](https://apps.apple.com/us/app/rizzgpt-1-0/id6754542069) - Your AI dating coach.
 - 💤 [Snoralyze](https://apps.apple.com/us/app/snoralyze/id6757501755) - Snore tracking and analysis for iOS.
 - 🧠 [Mindtoss](https://apps.apple.com/us/app/mindtoss-app/id6758364340) - Capture thoughts instantly and send them to your inbox. Built with React Native and Expo for iOS.
